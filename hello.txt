@@ -1,13 +1,13 @@
-PRINT("HELLO WORLD")
+﻿PRINT("HELLO WORLD")
 
 
-public class Test {
-	public static void main(String[] args){
-		System.out.println("Hello, World!");
-	}
-}
+public class Test {!
+	public static void main(String[] args){!
+		System.out.println("Hello, World!");!
+	}!
+}!
 
-int main() {
-    std::cout << "Hello World!";
-    RETURN 0;
-}
+int main() {!
+    std::cout << "Hello World!";!
+    RETURN 0;!
+}!
