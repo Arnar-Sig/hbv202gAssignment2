@@ -1,4 +1,4 @@
-print("Hello World!")
+PRINT("HELLO WORLD")
 
 
 public class Test {
