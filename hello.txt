@@ -9,5 +9,5 @@ public class Test {
 
 int main() {
     std::cout << "Hello World!";
-    return 0;
+    RETURN 0;
 }
